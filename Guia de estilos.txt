@@ -1,0 +1,45 @@
+# Guía de estilo
+
+## Diseño
+
+Los diseños se crearon con los siguientes anchos:
+
+-   Mobile: 375px
+-   Desktop: 1440px
+
+## Colores
+
+### Primario
+
+- Cyan: hsl(180, 66%, 49%)
+- Dark Violet: hsl(257, 27%, 26%)
+
+### Secundarios
+
+- Red: hsl(0, 87%, 67%)
+
+### Neutrales
+
+- Gray: hsl(0, 0%, 75%)
+- Grayish Violet: hsl(257, 7%, 63%)
+- Very Dark Blue: hsl(255, 11%, 22%)
+- Very Dark Violet: hsl(260, 8%, 14%)
+
+
+## Typografía
+
+### Body
+
+- Font size: 18px
+
+### Fonts
+
+- Family: [Poppins](https://fonts.google.com/specimen/Poppins)
+- Weights: 500, 700
+
+
+## Icons
+
+Para los íconos sociales, puede usar los íconos provistos o una biblioteca de íconos de fuentes. Ej:
+
+- [Font Awesome](https://fontawesome.com)
